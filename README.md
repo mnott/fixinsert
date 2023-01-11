@@ -1,4 +1,3 @@
-doc
 # fixinsert
 
 Parse a text file that contains insert into statements
